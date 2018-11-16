@@ -1,1 +1,1 @@
-Implemented Augmented Random Search RL algorithm in Half-Cheetah simulation
+#Implemented Augmented Random Search RL algorithm in Half-Cheetah simulation
